@@ -1,0 +1,15 @@
+C:\Users\Josem\Music\git3\five_variables_github\bin\Debug\net6.0\five_variables_github.exe
+C:\Users\Josem\Music\git3\five_variables_github\bin\Debug\net6.0\five_variables_github.deps.json
+C:\Users\Josem\Music\git3\five_variables_github\bin\Debug\net6.0\five_variables_github.runtimeconfig.json
+C:\Users\Josem\Music\git3\five_variables_github\bin\Debug\net6.0\five_variables_github.dll
+C:\Users\Josem\Music\git3\five_variables_github\bin\Debug\net6.0\five_variables_github.pdb
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\five_variables_github.csproj.AssemblyReference.cache
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\five_variables_github.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\five_variables_github.AssemblyInfoInputs.cache
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\five_variables_github.AssemblyInfo.cs
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\five_variables_github.csproj.CoreCompileInputs.cache
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\five_variables_github.dll
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\refint\five_variables_github.dll
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\five_variables_github.pdb
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\five_variables_github.genruntimeconfig.cache
+C:\Users\Josem\Music\git3\five_variables_github\obj\Debug\net6.0\ref\five_variables_github.dll

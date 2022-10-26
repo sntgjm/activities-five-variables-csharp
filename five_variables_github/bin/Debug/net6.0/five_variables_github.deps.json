@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "five_variables_github/1.0.0": {
+        "runtime": {
+          "five_variables_github.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "five_variables_github/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
